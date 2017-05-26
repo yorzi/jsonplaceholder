@@ -20,8 +20,7 @@
   },
   "scripts": {
     "start": "node index",
-    "test": "node test/app",
-    "precommit": "npm test"
+    "test": "node test/app"
   },
   "dependencies": {
     "clone": "^1.0.2",
